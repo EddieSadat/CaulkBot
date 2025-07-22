@@ -1,1 +1,2 @@
-A Discord bot for your Clash of Clans clan.
+This is a NEW START!
+No more copying old code, we go from Ground UP
